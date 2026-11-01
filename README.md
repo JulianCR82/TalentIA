@@ -109,7 +109,3 @@ Crea y asigna estas credenciales (el JSON no incluye ninguna):
 ## Privacidad
 
 Este workflow procesa datos personales de candidatos (CV, correos) y los envía a un proveedor externo de IA (Groq). Asegúrate de cumplir con la normativa de protección de datos aplicable (por ejemplo, la Ley 1581 de 2012 en Colombia) y de informar a los candidatos sobre el tratamiento de sus datos.
-
-## Licencia
-
-Define aquí la licencia que prefieras (por ejemplo, MIT).
