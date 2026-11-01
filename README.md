@@ -2,7 +2,7 @@
 
 Workflow de [n8n](https://n8n.io) que recibe hojas de vida por correo, verifica que realmente sean un CV, las compara con las vacantes activas usando IA y le entrega al reclutador un informe de compatibilidad.
 
-> ⚠️ Los resultados son **orientativos** y no sustituyen la revisión humana. El workflow no toma decisiones de contratación.
+> Los resultados son **orientativos** y no sustituyen la revisión humana. El workflow no toma decisiones de contratación.
 
 ## Cómo funciona
 
